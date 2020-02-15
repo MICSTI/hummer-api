@@ -1,0 +1,19 @@
+{
+  "name": "hummer-api",
+  "version": "0.0.1",
+  "description": "Trochilidaeic contact management app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MICSTI/hummer-api.git"
+  },
+  "author": "MICSTI",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MICSTI/hummer-api/issues"
+  },
+  "homepage": "https://github.com/MICSTI/hummer-api#readme"
+}
